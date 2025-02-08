@@ -1,0 +1,119 @@
+Name,Components,"Example of uses, and other notes"
+"7+3, also known as DA or DAC in case of daunorubicin, or IA or IAC in case of idarubicin use","7 days of Ara-C (cytarabine) plus 3 days of an anthracycline antibiotic, either daunorubicin (DA or DAC variant) or idarubicin (IA or IAC variant)","Acute myelogenous leukemia, excluding acute promyelocytic leukemia"
+ABVD,"doxorubicin (Adriamycin), bleomycin, vinblastine, dacarbazine",Hodgkin's lymphoma
+AC,"doxorubicin (Adriamycin), cyclophosphamide",breast cancer
+BACOD,"bleomycin, doxorubicin (Adriamycin), cyclophosphamide, vincristine (Oncovin), dexamethasone",Non-Hodgkin lymphomas
+BEACOPP,"bleomycin, etoposide, doxorubicin (Adriamycin), cyclophosphamide, vincristine (Oncovin), procarbazine, prednisone",Hodgkin's lymphoma
+BEP,"bleomycin, etoposide, platinum agent","testicular cancer, germ cell tumors"
+CA,"cyclophosphamide, doxorubicin (Adriamycin) (same as AC)",breast cancer
+CAF,"cyclophosphamide, doxorubicin (Adriamycin), fluorouracil (5-FU)",breast cancer
+CAPOX or XELOX,capecitabine and oxaliplatin,colorectal cancer
+CAV,"cyclophosphamide, doxorubicin (Adriamycin), vincristine",lung cancer
+CBV,"cyclophosphamide, BCNU (carmustine), VP-16 (etoposide)",lymphoma
+CHOEP,"cyclophosphamide, hydroxydaunorubicin (doxorubicin), etoposide, vincristine (Oncovin), prednisone",Non-Hodgkin lymphomas
+CEPP,"cyclophosphamide, etoposide, procarbazine, prednisone",Non-Hodgkin Lymphomas
+ChlVPP/EVA,"chlorambucil, vincristine (Oncovin), procarbazine, prednisone, etoposide, vinblastine, doxorubicin (Adriamycin)",Hodgkin's lymphoma
+CHOP,"cyclophosphamide, hydroxydaunorubicin (doxorubicin), vincristine (Oncovin), prednisone",non-Hodgkin lymphoma
+CHOP-R or R-CHOP,CHOP + rituximab,B cell non-Hodgkin lymphoma
+ClaPD,"clarithromycin, pomalidomide, dexamethasone",multiple myeloma
+CMF,"cyclophosphamide, methotrexate, fluorouracil (5-FU)",breast cancer
+CMV,"cisplatin, methotrexate, vinblastine",transitional bladder carcinoma
+COP or CVP,"cyclophosphamide, Oncovin (vincristine), prednisone",non-Hodgkin lymphoma in patients with history of cardiovascular disease
+COPP,"cyclophosphamide, Oncovin (vincristine), procarbazine, prednisone",Hodgkin's lymphoma
+CT or TC,"docetaxel (Taxotere), cyclophosphamide",breast cancer
+CTD,"cyclophosphamide, thalidomide, dexamethasone",AL amyloidosis
+CVAD and Hyper-CVAD,"cyclophosphamide, vincristine, doxorubicin (Adriamycin), dexamethasone","aggressive non-Hodgkin lymphoma, lymphoblastic lymphoma, some forms of leukemia"
+CVE,"carboplatin, vincristine, etoposide",retinoblastoma
+CYBORD,"cyclophosphamide, bortezomib, dexamethasone","multiple myeloma, AL amyloidosis"
+DA or DAC,"daunorubicin x 3 days plus ara-C (cytarabine) x 7 days, a variant of 7+3 regimen","Acute myeloid leukemia, excluding acute promyelocytic leukemia"
+DAT,"daunorubicin, cytarabine (ara-C), tioguanine",Acute myeloid leukemia
+DCEP,"dexamethasone, cyclophosphamide, etoposide, platinum agent",relapsed or refractory multiple myeloma
+DHAP,"dexamethasone (a steroid hormone), cytarabine (ara-C), platinum agent",Non-Hodgkin lymphomas
+DHAP-R or R-DHAP,"dexamethasone (a steroid hormone), cytarabine (ara-C), platinum agent plus rituximab",Non-Hodgkin lymphomas
+DICE,"dexamethasone, ifosfamide, cisplatin, etoposide (VP-16)","aggressive relapsed lymphomas, progressive neuroblastoma"
+DT-PACE,"dexamethasone, thalidomide, platinum agent, doxorubicin (Adriamycin), cyclophosphamide, etoposide",multiple myeloma
+EC,"epirubicin, cyclophosphamide",breast cancer
+ECF (MAGIC),"epirubicin, cisplatin, fluorouracil (5-FU)",gastric cancer and cancer of the esophagogastric junction (Siewert classification III)
+EOX,"epirubicin, oxaliplatin, capecitabine","esophageal Cancer, gastric Cancer"
+EP,"etoposide, platinum agent","testicular cancer, germ cell tumors"
+EPOCH,"etoposide, prednisone, vincristine (Oncovin), cyclophosphamide, and hydroxydaunorubicin",Non-Hodgkin lymphomas
+EPOCH-R or R-EPOCH,"etoposide, prednisone, vincristine (Oncovin), cyclophosphamide, and hydroxydaunorubicin plus rituximab",B cell Non-Hodgkin lymphomas
+ESHAP,"etoposide, methylprednisolone (a steroid hormone), cytarabine (ara-C), platinum agent",Non-Hodgkin lymphoma
+ESHAP-R or R-ESHAP,"etoposide, methylprednisolone (a steroid hormone), cytarabine (ara-C), platinum agent plus rituximab",Non-Hodgkin lymphoma
+FAM,"fluorouracil, doxorubicin (Adriamycin), mitomycin",gastric cancer
+FAMTX,"fluorouracil, doxorubicin (Adriamycin), methotrexate",gastric cancer
+FCM or FMC,"fludarabine, cyclophosphamide, mitoxantrone",B cell non-Hodgkin lymphoma
+FCM-R or R-FCM or R-FMC or FMC-R,"fludarabine, cyclophosphamide, mitoxantrone plus rituximab",B cell non-Hodgkin lymphoma
+FCR,"fludarabine, cyclophosphamide, rituximab",B cell non-Hodgkin lymphoma
+FM,"fludarabine, mitoxantrone",B cell non-Hodgkin lymphoma
+FM-R or R-FM or RFM or FMR,"fludarabine, mitoxantrone, and rituximab",B cell non-Hodgkin lymphoma
+FEC,"fluorouracil (5-FU), epirubicin, cyclophosphamide",breast cancer
+FEC-T,"fluorouracil (5-FU), epirubicin, cyclophosphamide together, followed by docetaxel (Taxotere)",breast cancer
+FL (also known as Mayo),"fluorouracil (5-FU), leucovorin (folinic acid)",colorectal cancer
+FLAG,"fludarabine, cytarabine, G-CSF",relapsed or refractory acute myelogenous leukemia
+FLAG-Ida or FLAG-IDA or IDA-FLAG or Ida-FLAG,"fludarabine, cytarabine, idarubicin, G-CSF",relapsed or refractory acute myelogenous leukemia
+FLAG-Mito or FLAG-MITO or Mito-FLAG or MITO-FLAG or FLANG[citation needed],"mitoxantrone, fludarabine, cytarabine, G-CSF",relapsed or refractory acute myelogenous leukemia
+FLAMSA,"fludarabine, cytarabine, amsacrine","myelodysplastic syndrome, acute myeloid leukemia"
+FLAMSA-BU or FLAMSA-Bu,"fludarabine, cytarabine, amsacrine, busulfan","myelodysplastic syndrome, acute myeloid leukemia"
+FLAMSA-MEL or FLAMSA-Mel,"fludarabine, cytarabine, amsacrine, melphalan","myelodysplastic syndrome, acute myeloid leukemia"
+FLOT,"fluorouracil (5-FU), leucovorin (folinic acid), oxaliplatin, docetaxel","esophageal cancer, gastric cancer"
+FOLFIRI,"fluorouracil (5-FU), leucovorin (folinic acid), irinotecan",colorectal cancer
+FOLFIRINOX,"fluorouracil (5-FU), leucovorin (folinic acid), irinotecan, oxaliplatin",pancreatic cancer
+FOLFOX,"fluorouracil (5-FU), leucovorin (folinic acid), oxaliplatin",colorectal cancer
+GC,"gemcitabine, cisplatin gemcitabine, dexamethasone, and cisplatin",bladder cancer
+GDP,"gemcitabine, dexamethasone, cisplatin",Non-Hodgkin lymphomas and Hodgkin lymphoma
+GemOx or GEMOX,"gemcitabine, oxaliplatin",Non-Hodgkin lymphomas
+GVD,"gemcitabine, vinorelbine, pegylated liposomal doxorubicin",Hodgkin lymphoma
+GemOx-R or GEMOX-R or R-GemOx or R-GEMOX,"gemcitabine, oxaliplatin, rituximab",Non-Hodgkin lymphomas
+IA or IAC,"idarubicin x 3 days plus Ara-C (cytarabine) x 7 days, a variant of classical 7+3 regimen","Acute myelogenous leukemia, excluding acute promyelocytic leukemia"
+ICE,"ifosfamide, carboplatin, etoposide (VP-16)","aggressive lymphomas, progressive neuroblastoma"
+ICE-R or R-ICE or RICE,ICE + rituximab,high-risk progressive or recurrent lymphomas
+IFL,"irinotecan, leucovorin (folinic acid), fluorouracil",colorectal cancer
+IVA,"ifosfamide, vincristine, actinomycin D",rhabdomyosarcoma
+MAP or MAPIE,"Doxorubicin (Adriamycin), Cisplatin, Methotrexate, Ifosfamide (Ifex), Etoposide (Vepesid)","Bone cancer, Osteosarcoma"
+m-BACOD,"methotrexate, bleomycin, doxorubicin (Adriamycin), cyclophosphamide, vincristine (Oncovin), dexamethasone",non-Hodgkin lymphoma
+MACOP-B,"methotrexate, leucovorin (folinic acid), doxorubicin (Adriamycin), cyclophosphamide, vincristine (Oncovin), prednisone, bleomycin",non-Hodgkin lymphoma
+MAID,"mesna, doxorubicin, ifosfamide, dacarbazine",soft-tissue sarcoma
+MINE,"mesna, ifosfamide, novantrone, etoposide",Non-Hodgkin lymphomas and Hodgkin lymphoma in relapse or refractory cases
+MINE-R or R-MINE,"mesna, ifosfamide, novantrone, etoposide plus rituximab",Non-Hodgkin lymphomas and Hodgkin lymphoma in relapse or refractory cases
+MMM,"mitomycin, methotrexate, mitoxantrone",breast cancer
+MOPP,"mechlorethamine, vincristine (Oncovin), procarbazine, prednisone",Hodgkin's lymphoma
+MVAC,"methotrexate, vinblastine, doxorubicin (Adriamycin), cisplatin",advanced bladder cancer[4]
+MVP,"mitomycin, vindesine, cisplatin",lung cancer and mesothelioma
+NP,"cisplatin, vinorelbine",non-small cell lung carcinoma
+PACE,"platinum agent, doxorubicin (Adriamycin), cyclophosphamide, etoposide",
+PCV,"Procarbazine, CCNU (lomustine), vincristine",brain tumors
+PEB,"cisplatin, etoposide, bleomycin",non-seminomatous germ cell tumors
+PEI,"cisplatin, etoposide, ifosfamide",small-cell lung carcinoma
+platin + taxane[5],"cisplatin/carboplatin, paclitaxel/docetaxel",ovarian cancer
+POMP,"6-mercaptopurine (Purinethol), vincristine (Oncovin), methotrexate, and prednisone",acute adult leukemia[6]
+ProMACE-MOPP,"methotrexate, doxorubicin (Adriamycin), cyclophosphamide, etoposide + MOPP",non-Hodgkin lymphoma
+ProMACE-CytaBOM,"prednisone, doxorubicin (Adriamycin), cyclophosphamide, etoposide, cytarabine, bleomycin, vincristine (Oncovin), methotrexate, leucovorin",non-Hodgkin lymphoma
+RdC,"lenalidomide (Revlimid), dexamethasone, cyclophosphamide",AL amyloidosis
+R-Benda,rituximab + bendamustine,follicular lymphoma and MALT lymphoma[7]
+R-DHAP or DHAP-R,"rituximab + DHAP; that is, rituximab, dexamethasone (a steroid hormone), cytarabine (ara-C), platinum agent",relapsed non-Hodgkin's lymphoma and Hodgkin's lymphoma
+R-FCM or FCM-R,"rituximab + FCM; that is, rituximab, fludarabine, cyclophosphamide, mitoxantrone",B cell non-Hodgkin lymphoma
+R-ICE or ICE-R or RICE,"rituximab + ICE; that is, rituximab, ifosfamide, carboplatin, etoposide",high-risk progressive or recurrent lymphomas
+RVD,"lenalidomide (Revlimid), bortezomib, dexamethasone",
+Stanford V,"doxorubicin (Adriamycin), mechlorethamine, bleomycin, vinblastine, vincristine, etoposide, prednisone",Hodgkin lymphoma
+TAC or ACT,"docetaxel (Taxotere) or paclitaxel (Taxol), doxorubicin (Adriamycin), cyclophosphamide","breast cancer (""TAC"" can also refer to tetracaine-adrenaline-cocaine, used as local anesthetic)"
+TAD,"tioguanine, cytarabine (ara-C), daunorubicin",acute myeloid leukemia
+TC or CT,"docetaxel (Taxotere), cyclophosphamide",breast cancer
+TCH,"docetaxel (Taxotere), carboplatin, trastuzumab (Herceptin)",breast cancer with positive HER2/neu receptor
+TCHP,"docetaxel (Taxotere), carboplatin, trastuzumab (Herceptin), pertuzumab (Perjeta)",breast cancer with positive HER2/neu receptor
+Thal/Dex,"thalidomide, dexamethasone",multiple myeloma
+TIP,"paclitaxel (Taxol), ifosfamide, platinum agent cisplatin (Platinol)","testicular cancer, germ cell tumors in salvage therapy"
+EE-4A,"vincristine, actinomycin[8]",Wilms' tumor[8]
+DD-4A,"vincristine, actinomycin, doxorubicin (Adriamycin)[8]",Wilms' tumor[8]
+VABCD,"vinblastine, doxorubicin (Adriamycin), bleomycin, lomustine (CeeNU), dacarbazine",MOPP refractory Hodgkin's Lymphoma
+VAC,"vincristine, actinomycin, cyclophosphamide",rhabdomyosarcoma
+VAD,"vincristine, doxorubicin (Adriamycin), dexamethasone",multiple myeloma
+VAMP,one of 3 combinations of vincristine and others,"Hodgkin's lymphoma, leukemia, multiple myeloma"
+Regimen I,"vincristine, doxorubicin (Adriamycin), etoposide, cyclophosphamide",Wilms' tumor[8]
+VAPEC-B,"vincristine, doxorubicin (Adriamycin), prednisone, etoposide, cyclophosphamide, bleomycin",Hodgkin's lymphoma
+VDC-IE,"vincristine, doxorubicin, cyclophosphamide, ifosfamide, etoposide",Ewing's sarcoma
+VD-PACE,"bortezomib, dexamethasone plus platinum agent, doxorubicin (Adriamycin), cyclophosphamide, etoposide",multiple myeloma
+VIFUP,"vinorelbine, cisplatin, fluorouracil",locally advanced/metastatic breast cancer
+VIP,"vinblastine, ifosfamide, platinum agent, (etoposide (VP-16) may substitute for vinblastine, making a regimen sometimes referred to as VIP-16)[9][10]","testicular cancer, germ cell tumors"
+VTD-PACE,"bortezomib (Velcade), thalidomide, dexamethasone plus platinum agent, doxorubicin (Adriamycin), cyclophosphamide, etoposide",multiple myeloma
+V-DCEP,"bortezomib (Velcade), dexamethasone, cyclophosphamide, etoposide, platinum agent",relapsed or refractory multiple myeloma
